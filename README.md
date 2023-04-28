@@ -1,6 +1,6 @@
 
 
-# Netflix Clone
+# Tiktok Clone
 
 <p>This project is a Tiktok clone created with React. It aims to replicate the basic functionality of the popular social media platform, tiktok.</p>
 
