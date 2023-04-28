@@ -12,7 +12,7 @@ https://tiktok-clone-ca5ae.firebaseapp.com/
 
 <ul>
 <li>React</li>
-<li>Firebase cloud firestore</li>
+<li>Firebase firestore database</li>
 <li><a href="https://github.com/Abdullah-Anaz/tiktok-clone-API">Node.js</a></li>
 </ul>
 
