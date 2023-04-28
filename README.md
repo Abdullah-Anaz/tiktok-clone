@@ -2,6 +2,8 @@
 
 # Tiktok Clone
 
+<img src="https://github.com/Abdullah-Anaz/tiktok-clone/blob/main/tiktokclone.png" alt="tiktok clone"/>
+
 <p>This project is a Tiktok clone created with React. It aims to replicate the basic functionality of the popular social media platform, tiktok.</p>
 
 <h2>Live:</h2>
