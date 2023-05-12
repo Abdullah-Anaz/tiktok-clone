@@ -9,6 +9,9 @@
 <h2>Live:</h2>
 https://tiktok-clone-ca5ae.firebaseapp.com/
 
+<p>Please note that the backend server might be slower as I have hosted it on a free server. <br>
+Due to this API requests might take sometime</p>
+
 
 <h2>Technologies Used</h2>
 
